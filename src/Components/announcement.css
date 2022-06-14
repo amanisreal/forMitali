@@ -1,0 +1,14 @@
+.announcementContainer{
+    background-color: black;
+    color: white;
+}
+
+.text{
+    text-align: center;
+}
+
+span{
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 700;
+}

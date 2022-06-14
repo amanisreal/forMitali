@@ -1,0 +1,38 @@
+.navbarContainer{
+    display: flex;
+   margin-top: 20px;;
+    height: 13vh;
+    align-items: center;
+}
+
+.navbarImage{
+    flex:1;
+}
+
+.middle{
+    flex:2;
+    margin-left: -9rem;
+}
+
+.middle >ul{
+    display: flex;
+    
+}
+
+.middle>ul>li{
+    list-style: none;
+    padding-left:30px;
+}
+
+.rightSide{
+    flex: 1;
+}
+
+.rightSide>button{
+    padding: 11px;
+    margin-top:26px;
+    border-color: yellow;
+    background-color: white;
+    border-radius: 8px;
+    
+}

@@ -1,0 +1,25 @@
+.bannerContainer{
+    width: 98.9vw;
+    position: relative;
+    
+}
+
+.bannerimg{
+    width: 100%;
+    
+    left:0;
+    opacity: 1;
+}
+
+.textx{
+    font-size: 3rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    z-index:2;
+    margin-top: -40%;
+    
+}
